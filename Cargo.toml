@@ -1,7 +1,7 @@
 [package]
 name = "iso-4217"
 version = "0.1.0"
-authors = ["mechiru <46036584+mechiru@users.noreply.github.com>"]
+authors = ["mechiru <u9053u6d41@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
 description = "Currency code based on ISO-4217"
