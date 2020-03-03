@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["mechiru <46036584+mechiru@users.noreply.github.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
+description = "Currency code based on ISO-4217"
 repository = "https://github.com/mechiru/iso-4217"
 documentation = "https://docs.rs/iso-4217"
 keywords = ["iso", "iso4217", "iso-4217", "currency", "code"]
