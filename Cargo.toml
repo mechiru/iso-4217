@@ -1,0 +1,19 @@
+[package]
+name = "iso-4217"
+version = "0.1.0"
+authors = ["mechiru <46036584+mechiru@users.noreply.github.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/mechiru/iso-4217"
+documentation = "https://docs.rs/iso-4217"
+keywords = ["iso", "iso4217", "iso-4217", "currency", "code"]
+categories = ["iso", "currency", "code"]
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+serde = { version = "1.0.104", features = ["derive"] }
+serde_json = "1.0.48"
